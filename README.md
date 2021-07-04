@@ -1,7 +1,7 @@
 # Description
-Tool that creates template on directory creation:
+Tool that creates template when directory created in /components or file created in /ctx:
 - [/components] component (react-hooks + styled-components)
-- [/ctx] react useContext
+- [/ctx] react-hook createContext
 
 # Instructions
 Follow the steps below to run the application
@@ -9,5 +9,3 @@ Follow the steps below to run the application
 ```bash
 npm start
 ```
-
-Create directory in /ctx or /components to see that tool in action.
